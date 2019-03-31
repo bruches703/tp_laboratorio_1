@@ -1,0 +1,321 @@
+# depslib dependency file v1.0
+1553631478 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\menuopcion.c
+	<stdio.h>
+	<stdlib.h>
+	"menuOpcion.h"
+
+1553629029 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\menuopcion.h
+
+1553639532 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\submenuopc3.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1553631616 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\sumaopcion.c
+	<stdio.h>
+	<stdlib.h>
+	"sumaOpcion.h"
+
+1553631616 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\sumaopcion.h
+
+1553632116 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\restaopcion.c
+	<stdio.h>
+	<stdlib.h>
+	"restaOpcion.h"
+
+1553632116 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\restaopcion.h
+
+1553828871 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"divideOption.h"
+	"factorialOptionA.h"
+	"factorialOptionB.h"
+	"reportDivide.h"
+	"reportFactorial.h"
+	"reportMultiplication.h"
+	"reportSubtraction.h"
+	"reportSum.h"
+	"menuOption.h"
+	"multiplyOption.h"
+	"subtractionOption.h"
+	"submenuOption3.h"
+	"sumOption.h"
+
+1553636501 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\submenuopc3.h
+
+1553632831 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\divicionopcion.c
+
+1553632831 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\divicionopcion.h
+
+1553633353 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\multiplicaropcion.c
+	<stdio.h>
+	<stdlib.h>
+	"multiplicarOpcion.h"
+
+1553633353 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\multiplicaropcion.h
+
+1553634043 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\factorialopcion.c
+	<stdio.h>
+	<stdlib.h>
+	"factorialOpcion.h"
+
+1553634043 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\factorialopcion.h
+
+1553639376 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\factorialopciona.c
+	<stdio.h>
+	<stdlib.h>
+	"factorialOpcionA.h"
+
+1553637472 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\factorialopciona.h
+
+1553639376 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\factorialopcionb.c
+	<stdio.h>
+	<stdlib.h>
+	"factorialOpcionB.h"
+
+1553637472 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\factorialopcionb.h
+
+1553640787 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\informardivicion.c
+	<stdio.h>
+	<stdlib.h>
+	"informarDivicion.h"
+
+1553640787 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\informardivicion.h
+
+1553640787 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\informarfactorial.c
+	<stdio.h>
+	<stdlib.h>
+	"informarFactorial.h"
+
+1553640787 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\informarfactorial.h
+
+1553640787 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\informarmultiplicacion.c
+	<stdio.h>
+	<stdlib.h>
+	"informarMultiplicacion.h"
+
+1553640787 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\informarmultiplicacion.h
+
+1553640787 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\informarresta.c
+	<stdio.h>
+	<stdlib.h>
+	"informarResta.h"
+
+1553640787 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\informarresta.h
+
+1553640787 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\informarsuma.c
+	<stdio.h>
+	<stdlib.h>
+	"informarSuma.h"
+
+1553640787 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\informarsuma.h
+
+1553828147 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\divideoption.c
+	<stdio.h>
+	<stdlib.h>
+	"divideOption.h"
+
+1553828620 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\divideoption.h
+
+1553828147 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\factorialoptiona.c
+	<stdio.h>
+	<stdlib.h>
+	"factorialOptionA.h"
+
+1553828725 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\factorialoptiona.h
+
+1553828148 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\factorialoptionb.c
+	<stdio.h>
+	<stdlib.h>
+	"factorialOptionB.h"
+
+1553828725 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\factorialoptionb.h
+
+1553828553 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\reportdivide.h
+
+1553828553 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\reportfactorial.h
+
+1553828648 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\reportmultiplication.h
+
+1553828553 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\reportsubtraction.h
+
+1553828553 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\reportsum.h
+
+1553828553 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\menuoption.h
+
+1553828553 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\multiplyoption.h
+
+1553828553 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\subtractionoption.h
+
+1553828553 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\submenuoption3.h
+
+1553828752 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\sumopcion.h
+
+1553828147 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\menuoption.c
+	<stdio.h>
+	<stdlib.h>
+	"menuOption.h"
+
+1553828147 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\multiplyoption.c
+	<stdio.h>
+	<stdlib.h>
+	"multiplyOption.h"
+
+1553828147 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\reportdivide.c
+	<stdio.h>
+	<stdlib.h>
+	"reportDivide.h"
+
+1553828147 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\reportfactorial.c
+	<stdio.h>
+	<stdlib.h>
+	"reportFactorial.h"
+
+1553828147 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\reportmultiplication.c
+	<stdio.h>
+	<stdlib.h>
+	"reportMultiplication.h"
+
+1553828147 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\reportsubtraction.c
+	<stdio.h>
+	<stdlib.h>
+	"reportSubtraction.h"
+
+1553828147 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\reportsum.c
+	<stdio.h>
+	<stdlib.h>
+	"reportSum.h"
+
+1553828147 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\submenuoption3.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"submenuOption3.h"
+
+1553828147 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\subtractionoption.c
+	<stdio.h>
+	<stdlib.h>
+	"subtractionOption.h"
+
+1553828679 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\sumopcion.c
+	<stdio.h>
+	<stdlib.h>
+	"sumOpcion.h"
+
+1553828790 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\sumoption.c
+	<stdio.h>
+	<stdlib.h>
+	"sumOption.h"
+
+1553828752 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\ejercicios\tp1_lab1\sumoption.h
+
+1554069390 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\divideoption.c
+	<stdio.h>
+	<stdlib.h>
+	"divideOption.h"
+
+1554066740 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\divideoption.h
+
+1554069390 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\factorialoptiona.c
+	<stdio.h>
+	<stdlib.h>
+	"factorialOptionA.h"
+
+1553828725 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\factorialoptiona.h
+
+1554069390 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\factorialoptionb.c
+	<stdio.h>
+	<stdlib.h>
+	"factorialOptionB.h"
+
+1553828725 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\factorialoptionb.h
+
+1554067261 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"divideOption.h"
+	"factorialOptionA.h"
+	"factorialOptionB.h"
+	"reportDivide.h"
+	"reportFactorial.h"
+	"reportMultiplication.h"
+	"reportSubtraction.h"
+	"reportSum.h"
+	"menuOption.h"
+	"multiplyOption.h"
+	"subtractionOption.h"
+	"submenuOption3.h"
+	"sumOption.h"
+
+1554066826 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\reportdivide.h
+
+1553960636 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\reportfactorial.h
+
+1554066926 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\reportmultiplication.h
+
+1554066926 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\reportsubtraction.h
+
+1554066926 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\reportsum.h
+
+1553828553 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\menuoption.h
+
+1553828553 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\multiplyoption.h
+
+1553828553 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\subtractionoption.h
+
+1553828553 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\submenuoption3.h
+
+1553828752 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\sumoption.h
+
+1554069390 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\menuoption.c
+	<stdio.h>
+	<stdlib.h>
+	"menuOption.h"
+
+1554069390 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\multiplyoption.c
+	<stdio.h>
+	<stdlib.h>
+	"multiplyOption.h"
+
+1554070244 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\submenuoption3.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"submenuOption3.h"
+
+1554069872 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\subtractionoption.c
+	<stdio.h>
+	<stdlib.h>
+	"subtractionOption.h"
+
+1554069872 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\sumoption.c
+	<stdio.h>
+	<stdlib.h>
+	"sumOption.h"
+
+1554069390 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\reportdivide.c
+	<stdio.h>
+	<stdlib.h>
+	"reportDivide.h"
+
+1554070244 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\reportfactorial.c
+	<stdio.h>
+	<stdlib.h>
+	"reportFactorial.h"
+
+1554069390 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\reportmultiplication.c
+	<stdio.h>
+	<stdlib.h>
+	"reportMultiplication.h"
+
+1554069390 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\reportsubtraction.c
+	<stdio.h>
+	<stdlib.h>
+	"reportSubtraction.h"
+
+1554069390 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp1_lab1\reportsum.c
+	<stdio.h>
+	<stdlib.h>
+	"reportSum.h"
+

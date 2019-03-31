@@ -1,0 +1,2 @@
+
+int factorialOptionB (int b);
