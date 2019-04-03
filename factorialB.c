@@ -1,17 +1,17 @@
-/** \brief Calcula factorial de la variable 'a'
+/** \brief Calcula factorial de la variable 'b'
  *
  * \param Valor de variale 'a' ingresado por usuario
  *
- * \return Factorial del dato ingresado (a!)
+ * \return Factorial del dato ingresado (b!)
  */
 #include <stdio.h>
 #include <stdlib.h>
-#include "factorialOptionA.h"
+#include "factorialB.h"
 
-int factorialOptionA (int a)
+int factorialB (int b)
 {
     int result=1;
-      for (int i = 1; i <= a; i++)
+      for (int i = 1; i <= b; i++)
         {
          result = result*i;
         }

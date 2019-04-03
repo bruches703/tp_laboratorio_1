@@ -8,9 +8,9 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "divideOption.h"
+#include "divide.h"
 
-float divideOption (int a, int b)
+float divide (int a, int b)
 {
     float result;
     result= (float)a/b;

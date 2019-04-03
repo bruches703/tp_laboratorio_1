@@ -10,11 +10,9 @@
 #include <stdlib.h>
 #include "reportSubtraction.h"
 
-void reportSubtraction (int a, int b, int result, int flag)
+void reportSubtraction (int a, int b, int result)
 {
-    if(flag==1)
-    {
+
             printf("\nLa resta de %d - %d es : %d", a, b, result);
-    }
 
 }

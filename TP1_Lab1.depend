@@ -319,3 +319,103 @@
 	<stdlib.h>
 	"reportSum.h"
 
+1554256745 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\menuoption.c
+	<stdio.h>
+	<stdlib.h>
+	"menuOption.h"
+
+1554256745 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\menuoption.h
+
+1554257775 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\divide.c
+	<stdio.h>
+	<stdlib.h>
+	"divide.h"
+
+1554257775 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\divide.h
+
+1554257774 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\factoriala.c
+	<stdio.h>
+	<stdlib.h>
+	"factorialA.h"
+
+1554257775 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\factoriala.h
+
+1554257775 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\factorialb.c
+	<stdio.h>
+	<stdlib.h>
+	"factorialB.h"
+
+1554257775 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\factorialb.h
+
+1554257774 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\multiply.c
+	<stdio.h>
+	<stdlib.h>
+	"multiply.h"
+
+1554257774 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\multiply.h
+
+1554258907 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\reportdivide.c
+	<stdio.h>
+	<stdlib.h>
+	"reportDivide.h"
+
+1554257774 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\reportdivide.h
+
+1554258907 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\reportfactorial.c
+	<stdio.h>
+	<stdlib.h>
+	"reportFactorial.h"
+
+1554257774 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\reportfactorial.h
+
+1554258907 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\reportmultiplication.c
+	<stdio.h>
+	<stdlib.h>
+	"reportMultiplication.h"
+
+1554257774 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\reportmultiplication.h
+
+1554257774 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\reportsubtraction.c
+	<stdio.h>
+	<stdlib.h>
+	"reportSubtraction.h"
+
+1554257774 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\reportsubtraction.h
+
+1554258907 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\reportsum.c
+	<stdio.h>
+	<stdlib.h>
+	"reportSum.h"
+
+1554257775 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\reportsum.h
+
+1554257774 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\subtraction.c
+	<stdio.h>
+	<stdlib.h>
+	"subtraction.h"
+
+1554257774 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\subtraction.h
+
+1554258312 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\sum.c
+	<stdio.h>
+	<stdlib.h>
+	"sum.h"
+
+1554258312 d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\sum.h
+
+1554258907 source:d:\documentos utn\2-primer cuatrimestre\programacion y laboratorio\trabajos practicos\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"divide.h"
+	"factorialA.h"
+	"factorialB.h"
+	"reportDivide.h"
+	"reportFactorial.h"
+	"reportMultiplication.h"
+	"reportSubtraction.h"
+	"reportSum.h"
+	"menuOption.h"
+	"multiply.h"
+	"subtraction.h"
+	"sum.h"
+

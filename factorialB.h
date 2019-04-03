@@ -1,0 +1,2 @@
+
+int factorialB (int b);

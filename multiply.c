@@ -8,9 +8,9 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "multiplyOption.h"
+#include "multiply.h"
 
-int multiplyOption (int a, int b)
+int multiply (int a, int b)
 {
     return a*b;
 }

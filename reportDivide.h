@@ -1,2 +1,2 @@
 
-void reportDivide (int a, int b, float result, int flag);
+void reportDivide (int a, int b, float result);

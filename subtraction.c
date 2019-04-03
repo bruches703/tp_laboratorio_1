@@ -8,9 +8,9 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include "subtractionOption.h"
+#include "subtraction.h"
 
-int subtractionOption (int a, int b)
+int subtraction (int a, int b)
 {
     return a-b;
 }
