@@ -31,18 +31,18 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="divideOption.c">
+		<Unit filename="divide.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="divideOption.h" />
-		<Unit filename="factorialOptionA.c">
+		<Unit filename="divide.h" />
+		<Unit filename="factorialA.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="factorialOptionA.h" />
-		<Unit filename="factorialOptionB.c">
+		<Unit filename="factorialA.h" />
+		<Unit filename="factorialB.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="factorialOptionB.h" />
+		<Unit filename="factorialB.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -50,10 +50,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="menuOption.h" />
-		<Unit filename="multiplyOption.c">
+		<Unit filename="multiply.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="multiplyOption.h" />
+		<Unit filename="multiply.h" />
 		<Unit filename="reportDivide.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -74,18 +74,14 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="reportSum.h" />
-		<Unit filename="submenuOption3.c">
+		<Unit filename="subtraction.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="submenuOption3.h" />
-		<Unit filename="subtractionOption.c">
+		<Unit filename="subtraction.h" />
+		<Unit filename="sum.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="subtractionOption.h" />
-		<Unit filename="sumOption.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="sumOption.h" />
+		<Unit filename="sum.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

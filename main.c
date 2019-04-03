@@ -24,13 +24,17 @@ int main()
     int a, flagA=0;
     int b, flagB=0;
 
-    //Definicion de variable de almacenamiento de resultados
-    int sumResult, subtractionResult, multiplicationResult, factorialAResult, factorialBResult;
-    float divisionResult;
-    //fin de definicion de variables
-
+    //Flag para reportar si algun valor (A o B) no fueron ingresados
     int flagReport=0;
 
+    //Definicion de variable de almacenamiento de resultados
+
+    int sumResult, subtractionResult, multiplicationResult, factorialAResult, factorialBResult;
+    float divisionResult;
+
+
+    //fin de definicion de variables
+;
     //Inicio de doWhile
     do
     {
