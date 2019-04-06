@@ -18,39 +18,58 @@ int menuOption (int a, int flagA, int b, int flagB)
 
     system("cls");
     printf("******Menu de calculadora******\n");
-    //if de modificacion de (A=x) de opcion 1
-    if (flagA==0)
+    if (flagA==0 && flagB==0)
     {
-        //Si no se ingreso valor 'A', mostrara 'X' en lugar de un numero
         printf("\n1-Ingresar 1er operando (A=x)");
-    }
-    else
-    {
-        //Si fue ingresado el valor 'A', mostrara el dato ingresado
-        printf("\n1-Ingresar 1er operando (A=%d)",a);
-    }
-
-    //if de modificacion de (B=y) de opcion 2
-    if(flagB==0)
-    {
-        //Si no se ingreso valor 'B', mostrara 'Y' en lugar de un numer
         printf("\n2-Ingresar 2do operando (B=y)");
+        printf("\n3-Calcular todas las opciones");
+            printf("\n\ta)Calcular la suma de A + B");
+            printf("\n\tb)Calcular la resta de A - B");
+            printf("\n\tc)Calcular la division entre A / B");
+            printf("\n\td)Calcular la multiplicacion de A * B");
+            printf("\n\te)Calcular la factoriales de A! y B!");
     }
-    else
+    else if(flagA==1 && flagB==0)
     {
-        //Si fue ingresado el valor 'B', mostrara el dato ingresado
-        printf("\n2-Ingresar 2do operando (B=%d)",b);
-    }
+        printf("\n1-Ingresar 1er operando (A=%d)",a);
+        printf("\n2-Ingresar 2do operando (B=y)");
+        printf("\n3-Calcular todas las opciones");
+            printf("\n\ta)Calcular la suma de %d + B",a);
+            printf("\n\tb)Calcular la resta de %d - B",a);
+            printf("\n\tc)Calcular la division entre %d / B",a);
+            printf("\n\td)Calcular la multiplicacion de %d * B",a);
+            printf("\n\te)Calcular la factoriales de %d! y B!",a);
 
-    //Muestra el resto de las opciones
-    printf("\n3-Calcular todas las opciones");
-    printf("\n4-Mostrar todos los resultados");
+    }
+    else if(flagA==0 && flagB==1)
+    {
+        printf("\n1-Ingresar 1er operando (A=x)");
+        printf("\n2-Ingresar 2do operando (B=%d)",b);
+        printf("\n3-Calcular todas las opciones");
+            printf("\n\ta)Calcular la suma de A + %d",b);
+            printf("\n\tb)Calcular la resta de A - %d",b);
+            printf("\n\tc)Calcular la division entre A / %d",b);
+            printf("\n\td)Calcular la multiplicacion de A * %d",b);
+            printf("\n\te)Calcular la factoriales de A! y %d!",b);
+    }
+   else
+   {
+        printf("\n1-Ingresar 1er operando (A=%d)",a);
+        printf("\n2-Ingresar 2do operando (B=%d)",b);
+        printf("\n3-Calcular todas las opciones");
+            printf("\n\ta)Calcular la suma de %d + %d",a,b);
+            printf("\n\tb)Calcular la resta de %d - %d",a,b);
+            printf("\n\tc)Calcular la division entre %d / %d",a,b);
+            printf("\n\td)Calcular la multiplicacion de %d * %d",a,b);
+            printf("\n\te)Calcular la factoriales de %d! y %d!",a,b);
+   }
+    printf("\n4-Mostrar los resultados");
     printf("\n0-Finalizar");
     printf("\n\nIngrese opcion: ");
-    fflush(stdin);  //Limpia el buffer, ya que si ingresa un char como opcion mostrara un error de manera constante
+    fflush(stdin);
     scanf("%d",&option);
 
-    return option; //retorna la opcion sellecionada
+    return option;
 
 }
 
